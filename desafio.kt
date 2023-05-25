@@ -36,7 +36,6 @@ fun main() {
         ConteudoEducacional("Projeto prático Javascript", 5)
     )
 
-
     val usuario1 = Usuario ("João Pedro")
     val usuario2 = Usuario ("Gustavo")
     val usuario3 =  Usuario ("Maria") 
